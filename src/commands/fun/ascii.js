@@ -1,4 +1,4 @@
-// requires figlet
+// requires figlet and ascii-table
 const figlet = require('figlet');
 
 module.exports = {
